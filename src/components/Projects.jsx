@@ -53,7 +53,7 @@ const projects = [
     ],
     github:
       'https://github.com/Codermanish75/Ai-Based-Pothole_Detection_System',
-    live: null,
+    live: 'https://ai-based-pothole-detection-system-lpbf.onrender.com',
   },
 
   {
