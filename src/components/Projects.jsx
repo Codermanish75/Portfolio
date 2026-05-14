@@ -30,7 +30,7 @@ const projects = [
   },
 
   {
-    title: 'Pothole Detection System',
+    title: 'AI-Based Pothole Detection System',
     emoji: '🛣️',
     accent: '#7b5ea7',
     description:
