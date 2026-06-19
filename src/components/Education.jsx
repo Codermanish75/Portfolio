@@ -9,7 +9,7 @@ const education = [
     period: '2022 – 2026',
     score: 'CGPA: 7.43 / 10',
     accent: '#00f5c4',
-    current: true
+    // current: true
   },
   {
     degree: 'Intermediate (Class 12)',
