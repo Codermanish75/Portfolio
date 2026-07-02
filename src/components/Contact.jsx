@@ -6,10 +6,10 @@ const contacts = [
   { label: 'Phone', value: '+91 7518981368', href: 'tel:7518981368', icon: '📱', accent: '#7b5ea7' },
   { label: 'LinkedIn', value: 'manish-singh-6b8060285', href: 'https://linkedin.com/in/manish-singh-6b8060285', icon: 'in', accent: '#0077b5' },
   { label: 'GitHub', value: 'Codermanish75', href: 'https://github.com/Codermanish75', icon: '⌥', accent: '#e8e8f0' },
-  { label: 'LeetCode', value: 'codermanish_75 · 150+', href: 'https://leetcode.com/codermanish_75', icon: '⚡', accent: '#ffa116' },
-  { label: 'GFG', value: 'officialmau8 · 300+', href: 'https://www.geeksforgeeks.org/profile/officialmau8?tab=activity', icon: '🌿', accent: '#2f8d46' },
-  { label: 'LeetCode', value: 'codermanish_75 · 150+', href: 'https://leetcode.com/u/manish_7518/', icon: '⚡', accent: '#ffa116' },
-  { label: 'GFG', value: 'officialmau8 · 300+', href: 'https://www.geeksforgeeks.org/profile/manishsiy5ep?tab=activity', icon: '🌿', accent: '#41b63d' }
+  { label: 'LeetCode', value: 'codermanish_75. C++· 150+', href: 'https://leetcode.com/codermanish_75', icon: '⚡', accent: '#ffa116' },
+  { label: 'GFG', value: 'officialmau8 · 300+ C++', href: 'https://www.geeksforgeeks.org/profile/officialmau8?tab=activity', icon: '🌿', accent: '#2f8d46' },
+  { label: 'LeetCode', value: 'codermanish_75 Python· 150+', href: 'https://leetcode.com/u/manish_7518/', icon: '⚡', accent: '#ffa116' },
+  { label: 'GFG', value: 'officialmau8 · 300+ Python', href: 'https://www.geeksforgeeks.org/profile/manishsiy5ep?tab=activity', icon: '🌿', accent: '#41b63d' }
 ]
 
 export default function Contact() {
