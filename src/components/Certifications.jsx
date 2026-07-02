@@ -19,7 +19,26 @@ const certs = [
     accent: '#ffcb05',
     badge: 'UMich',
     link: 'https://www.coursera.org/account/accomplishments/verify/E27H8HH8HNYV'
+  },
+  {
+    issuer: 'University of Toronto',
+    name: 'Human-Centered Design for Inclusive Innovation',
+    detail:
+      'Proficient in Python syntax, data types, loops, functions, lists, dictionaries, and conditionals.',
+    accent: '#c551bf',
+    badge: 'UTor',
+    link: 'https://www.coursera.org/account/accomplishments/verify/T97EDL8RJLHX'
+  },
+  {
+    issuer: 'IBM',
+    name: 'Python for Data Science, AI & Development',
+    detail:
+      'Proficient in Python syntax, data types, loops, functions, lists, dictionaries, and conditionals.',
+    accent: '#c61c33',
+    badge: 'IBM',
+    link: 'https://www.coursera.org/account/accomplishments/verify/4JT4CKAG8MJ2'
   }
+
 ]
 
 export default function Certifications() {
