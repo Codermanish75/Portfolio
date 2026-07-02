@@ -15,7 +15,7 @@ const skillGroups = [
     skills: ['LLMs', 'RAG', 'LangChain']
   },
   {
-    title: 'Frameworks',
+    title: 'Library/Frameworks',
     icon: '⚡',
     color: '#ff6b6b',
     skills: ['React', 'Node.js', 'REST API']

@@ -8,6 +8,8 @@ const contacts = [
   { label: 'GitHub', value: 'Codermanish75', href: 'https://github.com/Codermanish75', icon: '⌥', accent: '#e8e8f0' },
   { label: 'LeetCode', value: 'codermanish_75 · 150+', href: 'https://leetcode.com/codermanish_75', icon: '⚡', accent: '#ffa116' },
   { label: 'GFG', value: 'officialmau8 · 300+', href: 'https://www.geeksforgeeks.org/profile/officialmau8?tab=activity', icon: '🌿', accent: '#2f8d46' },
+  { label: 'LeetCode', value: 'codermanish_75 · 150+', href: 'https://leetcode.com/u/manish_7518/', icon: '⚡', accent: '#ffa116' },
+  { label: 'GFG', value: 'officialmau8 · 300+', href: 'https://www.geeksforgeeks.org/profile/manishsiy5ep?tab=activity', icon: '🌿', accent: '#41b63d' }
 ]
 
 export default function Contact() {
