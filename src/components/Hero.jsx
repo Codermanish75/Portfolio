@@ -289,8 +289,8 @@ export default function Hero() {
           {[
             { num: '150+', label: 'LeetCode' },
             { num: '300+', label: 'GFG Problems' },
-            { num: '7.43', label: 'CGPA' },
-            { num: '2+', label: 'Certifications' },
+            { num: '7.60', label: 'CGPA' },
+            { num: '4+', label: 'Certifications' },
           ].map(({ num, label }) => (
             <div key={label} style={{ textAlign: 'center' }}>
               <div style={{
