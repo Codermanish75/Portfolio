@@ -6,25 +6,25 @@ const skillGroups = [
     title: 'Core Languages',
     icon: '⌨️',
     color: '#00f5c4',
-    skills: ['Python 3', 'JavaScript', 'SQL', 'HTML/CSS']
+    skills: ['Python3', 'DSA', 'JavaScript', 'HTML/CSS']
   },
   {
     title: 'AI / ML Stack',
     icon: '🤖',
     color: '#7b5ea7',
-    skills: ['LLMs', 'RAG', 'LangChain', 'LangGraph', 'FastAPI']
+    skills: ['LLMs', 'RAG', 'LangChain']
   },
   {
     title: 'Frameworks',
     icon: '⚡',
     color: '#ff6b6b',
-    skills: ['React', 'Django', 'REST API']
+    skills: ['React', 'Node.js', 'REST API']
   },
   {
     title: 'CS Fundamentals',
     icon: '🧠',
     color: '#00f5c4',
-    skills: ['OOP', 'DSA', 'Operating System','System Design', 'Computer Network']
+    skills: ['OOP', 'Operating System','System Design', 'Computer Network']
   },
   {
     title: 'Dev Tools',
@@ -36,7 +36,7 @@ const skillGroups = [
     title: 'Soft Skills',
     icon: '🌟',
     color: '#ff6b6b',
-    skills: ['Leadership', 'Communication', 'Teamwork', 'Time Management']
+    skills: ['English','Leadership', 'Communication', 'Teamwork', 'Time Management']
   }
 ]
 
