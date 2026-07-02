@@ -3,17 +3,16 @@ import { useInView } from 'react-intersection-observer'
 
 const education = [
   {
-    degree: 'B.Tech — Computer Science & Engineering',
+    degree: 'B.Tech(Honors) — Computer Science & Engineering',
     school: 'Noida Institute of Engineering & Technology',
     location: 'Greater Noida',
     period: '2022 – 2026',
-    score: 'CGPA: 7.43 / 10',
+    score: 'CGPA: 7.60 / 10',
     accent: '#00f5c4',
     // current: true
   },
   {
     degree: 'Intermediate (Class 12)',
-    school: 'J.S.G.S. Public School',
     location: '',
     period: '',
     score: '83%',
@@ -21,7 +20,6 @@ const education = [
   },
   {
     degree: 'High School (Class 10)',
-    school: 'J.S.G.S. Public School',
     location: '',
     period: '',
     score: '89%',
