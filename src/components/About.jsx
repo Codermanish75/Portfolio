@@ -74,7 +74,7 @@ export default function About() {
             I'm Manish Singh, a B.Tech CSE student at <strong style={{ color: 'var(--text)' }}>Noida Institute of Engineering & Technology</strong> (2022–26), passionate about building AI-driven applications that solve real-world problems.
           </p>
           <p style={{ color: 'var(--muted)', lineHeight: 1.9, marginBottom: '2rem', fontSize: '0.98rem' }}>
-            My expertise spans <strong style={{ color: 'var(--accent)' }}>LLMs, RAG pipelines, LangChain, and LangGraph</strong> on the AI side, combined with full-stack proficiency in React, Django, and Node.js. I'm an active competitive programmer with 150+ LeetCode and 300+ GFG solutions.
+            My expertise spans <strong style={{ color: 'var(--accent)' }}> Python3 ,DSA ,MERN ,LLMs and RAG pipelines</strong> on the AI side, combined with full-stack proficiency in mongoDB ,React ,Express.js and Node.js. I'm an active competitive programmer with 150+ LeetCode and 300+ GFG solutions.
           </p>
           <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
             {['Python3', 'DSA', 'LLMs', 'React', 'Node.js', 'System Design'].map(tag => (
